@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Rainelyn G. Sungahid and I'm a Computer Engineering student at Cebu Institute of Technology - University</h2>
+<h2 align="left">Hi 👋! My name is Rainelyn G. Sungahid </h2>
+<h3 align="left">A Computer Engineering Student at Cebu Institute of Technology - University </h3>
 
 ###
 
